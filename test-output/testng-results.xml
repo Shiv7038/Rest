@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-17T12:20:27 IST" name="Default suite" finished-at="2023-03-17T12:20:29 IST" duration-ms="1748">
+    <groups>
+    </groups>
+    <test started-at="2023-03-17T12:20:27 IST" name="Default test" finished-at="2023-03-17T12:20:29 IST" duration-ms="1748">
+      <class name="pkj1.DynamicJson">
+        <test-method signature="addBook()[pri:0, instance:pkj1.DynamicJson@3ce1e309]" started-at="2023-03-17T12:20:27 IST" name="addBook" finished-at="2023-03-17T12:20:29 IST" duration-ms="1473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook1(java.lang.String,java.lang.String)[pri:0, instance:pkj1.DynamicJson@3ce1e309]" started-at="2023-03-17T12:20:29 IST" name="addBook1" data-provider="BooksData" finished-at="2023-03-17T12:20:29 IST" duration-ms="74" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jfdlkjsj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2fghp70]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook1 -->
+        <test-method signature="addBook1(java.lang.String,java.lang.String)[pri:0, instance:pkj1.DynamicJson@3ce1e309]" started-at="2023-03-17T12:20:29 IST" name="addBook1" data-provider="BooksData" finished-at="2023-03-17T12:20:29 IST" duration-ms="77" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jsjfkj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[22rfgf70]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook1 -->
+        <test-method signature="addBookFileData()[pri:0, instance:pkj1.DynamicJson@3ce1e309]" started-at="2023-03-17T12:20:29 IST" name="addBookFileData" finished-at="2023-03-17T12:20:29 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookFileData -->
+      </class> <!-- pkj1.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
